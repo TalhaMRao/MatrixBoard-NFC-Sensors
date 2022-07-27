@@ -1,0 +1,12 @@
+yaw 61.0383 degrees
+roll -21.4218 degrees
+pitch -5.81284 degrees
+x acceleration 0.097
+y acceleration -0.348
+z acceleration 0.887
+humidity 36.062 percent
+humidity sensor temperature 34.256 degrees celcius
+pressure 97419 kilo pascals
+altitude 331.062 meters
+altimeter temperature 37.875 degrees celcius
+UV index0.006
