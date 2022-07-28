@@ -10,6 +10,7 @@
 
 <br/>
 
+
 ### <span style="color: Yellow"> Setup: </span>
 - To setup your pi to use the matrix boards sensors as well as NFC go to https://matrix-io.github.io/matrix-documentation/matrix-hal/getting-started/. You need to download matrix hal either from package or from source. Download "from package" didn't work for me so I used "from source" which worked as well as provided useful examples that I used in my code.
 
